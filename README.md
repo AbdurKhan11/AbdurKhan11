@@ -58,9 +58,9 @@ I thrive on building impactful applications that solve real-world problems, deli
 #
  
 <details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 Abdur's Coding Journey</h3></summary>
 I started my career by mastering the web development basics, learning how to build interactive websites with HTML, CSS, and JavaScript—I guess you could say I was "HTML-ing" my way through life at the time! From there, I dived into backend development, exploring technologies like Node.js, Laravel, and MongoDB to build robust web applications. My love for clean code and smooth functionality grew into a full-on backend love affair.
-As I gained more experience, I expanded my expertise into mobile app development, creating cross-platform apps using Flutter. My curiosity then led me into Blockchain technology, where I “mined” some serious skills and created decentralized applications (DApps) for real-world use cases—because who wouldn’t want to be part of the blockchain gang?
+As I gained more experience, I expanded my expertise into mobile app development, creating cross-platform apps using Flutter. My curiosity then led me into Blockchain technology, where I “mined” some serious skills and created decentralized applications (DApps) for real-world use cases—because who wouldn’t want to be part of the blockchain gang? also an active **trader** in **forex** and **cryptocurrency markets**, applying my analytical skills to the financial world.
 Over the past year, I’ve been actively working on integrating AI and Machine Learning into my projects, leveraging predictive models and intelligent systems to solve complex problems in industries like fintech, logistics, and SaaS. It’s like giving my code a "brain" to think for itself.
 Outside of coding, you can find me leveling up in gaming (yes, I’m a certified button masher), exploring the latest tech trends, and building a collection of random hobbies. Whether it's trying to outsmart AI in games or solving real-world problems with code, I’m always up for a new challenge. 
 <details/>
